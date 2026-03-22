@@ -75,6 +75,9 @@ The program demonstrates:
 ### Demo 2
 ![Demo2](images/demo2.png)
 
+## Class Diagram
+![Class Diagram](images/classdiagram.png)
+
 ## Reflection
 I tried to keep the system simple while still using design patterns where they actually solve a problem.
 
